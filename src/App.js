@@ -24,7 +24,7 @@ class App extends Component {
         console.log(filteredPlants);
         return (
             <div className='tc' >
-                <h1>Plantfriends</h1>
+                <h1 className='washed-blue'>Plantfriends</h1>
                 <SearchBox searchChange={this.onSearchChange} />
                 <CardList plants={filteredPlants} />
             </div>
