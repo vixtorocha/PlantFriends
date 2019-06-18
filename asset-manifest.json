@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/vixtorocha/plantfriends/static/css/main.32a0ae71.chunk.css",
-    "main.js": "/vixtorocha/plantfriends/static/js/main.48e5b7d6.chunk.js",
-    "main.js.map": "/vixtorocha/plantfriends/static/js/main.48e5b7d6.chunk.js.map",
-    "runtime~main.js": "/vixtorocha/plantfriends/static/js/runtime~main.5fa2fe5d.js",
-    "runtime~main.js.map": "/vixtorocha/plantfriends/static/js/runtime~main.5fa2fe5d.js.map",
-    "static/css/2.31dafeb2.chunk.css": "/vixtorocha/plantfriends/static/css/2.31dafeb2.chunk.css",
-    "static/js/2.0ef9ac0a.chunk.js": "/vixtorocha/plantfriends/static/js/2.0ef9ac0a.chunk.js",
-    "static/js/2.0ef9ac0a.chunk.js.map": "/vixtorocha/plantfriends/static/js/2.0ef9ac0a.chunk.js.map",
-    "index.html": "/vixtorocha/plantfriends/index.html",
-    "precache-manifest.d9bdb260b007d24bf99b803cc3037c53.js": "/vixtorocha/plantfriends/precache-manifest.d9bdb260b007d24bf99b803cc3037c53.js",
-    "service-worker.js": "/vixtorocha/plantfriends/service-worker.js",
-    "static/css/2.31dafeb2.chunk.css.map": "/vixtorocha/plantfriends/static/css/2.31dafeb2.chunk.css.map",
-    "static/css/main.32a0ae71.chunk.css.map": "/vixtorocha/plantfriends/static/css/main.32a0ae71.chunk.css.map",
-    "static/media/peacelily.jpg": "/vixtorocha/plantfriends/static/media/peacelily.6a7f2002.jpg",
-    "static/media/pothos.jpg": "/vixtorocha/plantfriends/static/media/pothos.ebcfa506.jpg",
-    "static/media/zz-plant.jpg": "/vixtorocha/plantfriends/static/media/zz-plant.ac885e5c.jpg"
+    "main.css": "./static/css/main.e6756667.chunk.css",
+    "main.js": "./static/js/main.eaafe013.chunk.js",
+    "main.js.map": "./static/js/main.eaafe013.chunk.js.map",
+    "runtime~main.js": "./static/js/runtime~main.d653cc00.js",
+    "runtime~main.js.map": "./static/js/runtime~main.d653cc00.js.map",
+    "static/css/2.31dafeb2.chunk.css": "./static/css/2.31dafeb2.chunk.css",
+    "static/js/2.bfb1d701.chunk.js": "./static/js/2.bfb1d701.chunk.js",
+    "static/js/2.bfb1d701.chunk.js.map": "./static/js/2.bfb1d701.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.110ee2d4680565cd04adf0a25c7d4964.js": "./precache-manifest.110ee2d4680565cd04adf0a25c7d4964.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.31dafeb2.chunk.css.map": "./static/css/2.31dafeb2.chunk.css.map",
+    "static/css/main.e6756667.chunk.css.map": "./static/css/main.e6756667.chunk.css.map",
+    "static/media/peacelily.jpg": "./static/media/peacelily.6a7f2002.jpg",
+    "static/media/pothos.jpg": "./static/media/pothos.ebcfa506.jpg",
+    "static/media/zz-plant.jpg": "./static/media/zz-plant.ac885e5c.jpg"
   }
 }
